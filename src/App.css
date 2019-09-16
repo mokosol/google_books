@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+header {
+  padding: 40px 0 40px 0;
+  background: rgb(17, 119, 244);
+  color: black;
+  text-align: center; 
+}
+
+header h1 {
+  display: inline;
+  margin-left: 15px;
+  font-weight: 300;
+}
+
+onSubmit {
+  
+  
+
+}
